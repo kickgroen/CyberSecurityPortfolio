@@ -9,9 +9,8 @@ This is a repository to show my CyberSecurity assignments.
 - [Caesar Cipher](https://github.com/kickgroen/CaesarCipher) ( ✅ Finished - Public - Javascript )
 - [Password Checker](https://github.com/kickgroen/PasswordChecker) ( ✅ Finished - Public - C# )
 - [Hashing](https://github.com/kickgroen/Hashing) ( ✅ Finished - Public - C# )
-- Database Injection ( 📝 Working on - Private - C# )
 - [JWT](https://github.com/kickgroen/JWT) ( 📝 Pending Review - Public - C# )
-
+- Database Injection ( 📝 Working on - Private - C# )
 
 ## 🇳🇱 Nederlands 
 
